@@ -1,0 +1,29 @@
+{
+  "name": "boardgame",
+  "version": "1.0.0",
+  "description": "build game with java script using best practices for using algorithms and problem solving",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel-node --presets es2015 index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magedapdelghaney/JavaScriptGame.git"
+  },
+  "keywords": [
+    "board",
+    "game",
+    "js"
+  ],
+  "author": "magedapdelghaney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magedapdelghaney/JavaScriptGame/issues"
+  },
+  "homepage": "https://github.com/magedapdelghaney/JavaScriptGame#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
